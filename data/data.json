@@ -1,0 +1,31 @@
+[
+    {
+        "id": "0",
+        "memberName": "John Smith",
+        "image": "human-0.png",
+        "buildingNumber": "1",
+        "flatNo": "25",
+        "residentSince": "1988",
+        "description": "John Smith, is war veteran and a prestigious member of our Society. He served our country during Indo-Pak war."
+    },
+    {
+        "id": "1",
+        "memberName": "Max Muller",
+        "image": "human-1.png",
+        "buildingNumber": "2",
+        "flatNo": "36",
+        "residentSince": "1993",
+        "description": "Max Muller, former resident of Germany but currently resides in India, since 1993. He is technology enthusiast."
+    },
+    {
+        "id": "2",
+        "memberName": "Jessica Jones",
+        "image": "human-2.png",
+        "buildingNumber": "3",
+        "flatNo": "42",
+        "residentSince": "2006",
+        "description": "Jessica Jones is an artist by profession and one of the youngest members of our society."
+    }
+    
+    
+]
